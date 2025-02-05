@@ -13,6 +13,12 @@ This repository contains coursework from **ECE210-A (Spring 2025)** at [The Coop
 
 ---
 
+### **Assignments**
+- **[Assignment 1: MATLAB Basics](Assignments/Assignment_1.m)**
+- **[Assignment 2: Vectorization](Assignments/Assignment_2.m)**
+
+---
+
 ## Copyright & Licensing
 Copyright (C) 2024 Taha Akhlaq <[takhlaq04@gmail.com](mailto:takhlaq04@gmail.com)>
 
