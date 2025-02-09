@@ -7,7 +7,7 @@ clc; % clear command window
 
 u = (-5 : 3 : 7) % 1
 
-v = (-pi : pi/4 : pi)' % 2
+v = (-pi : pi/2 : pi)' % 2
 
 
 % Question 2
