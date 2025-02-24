@@ -16,7 +16,7 @@ This repository contains coursework from **ECE210-A (Spring 2025)** at [The Coop
 ### **Assignments**
 - **[Assignment 1: MATLAB Basics](Assignments/Assignment_1.m)**
 - **[Assignment 2: Vectorization](Assignments/Assignment_2.m)**
-
+- **[Assignment 3: Ones and Zeros](Assignments/Assignment_3.m)**
 ---
 
 ## Copyright & Licensing
