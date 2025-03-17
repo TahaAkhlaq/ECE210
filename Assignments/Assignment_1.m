@@ -1,4 +1,4 @@
-% Taha Akhlaq - MATLAB Assignment 1
+% Taha Akhlaq MATLAB Assignment 1: MATLAB Basics
 
 clc; % clear command window
 
